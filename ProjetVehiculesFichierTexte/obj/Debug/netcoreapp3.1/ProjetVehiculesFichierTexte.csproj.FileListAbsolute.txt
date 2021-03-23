@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ProjetVehiculesFichierTexte\ProjetVehiculesFichierTexte\bin\Debug\netcoreapp3.1\ProjetVehiculesFichierTexte.exe
+C:\Users\User\source\repos\ProjetVehiculesFichierTexte\ProjetVehiculesFichierTexte\bin\Debug\netcoreapp3.1\ProjetVehiculesFichierTexte.deps.json
+C:\Users\User\source\repos\ProjetVehiculesFichierTexte\ProjetVehiculesFichierTexte\bin\Debug\netcoreapp3.1\ProjetVehiculesFichierTexte.runtimeconfig.json
+C:\Users\User\source\repos\ProjetVehiculesFichierTexte\ProjetVehiculesFichierTexte\bin\Debug\netcoreapp3.1\ProjetVehiculesFichierTexte.runtimeconfig.dev.json
+C:\Users\User\source\repos\ProjetVehiculesFichierTexte\ProjetVehiculesFichierTexte\bin\Debug\netcoreapp3.1\ProjetVehiculesFichierTexte.dll
+C:\Users\User\source\repos\ProjetVehiculesFichierTexte\ProjetVehiculesFichierTexte\bin\Debug\netcoreapp3.1\ProjetVehiculesFichierTexte.pdb
+C:\Users\User\source\repos\ProjetVehiculesFichierTexte\ProjetVehiculesFichierTexte\obj\Debug\netcoreapp3.1\ProjetVehiculesFichierTexte.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProjetVehiculesFichierTexte\ProjetVehiculesFichierTexte\obj\Debug\netcoreapp3.1\ProjetVehiculesFichierTexte.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProjetVehiculesFichierTexte\ProjetVehiculesFichierTexte\obj\Debug\netcoreapp3.1\ProjetVehiculesFichierTexte.AssemblyInfo.cs
+C:\Users\User\source\repos\ProjetVehiculesFichierTexte\ProjetVehiculesFichierTexte\obj\Debug\netcoreapp3.1\ProjetVehiculesFichierTexte.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjetVehiculesFichierTexte\ProjetVehiculesFichierTexte\obj\Debug\netcoreapp3.1\ProjetVehiculesFichierTexte.dll
+C:\Users\User\source\repos\ProjetVehiculesFichierTexte\ProjetVehiculesFichierTexte\obj\Debug\netcoreapp3.1\ProjetVehiculesFichierTexte.pdb
+C:\Users\User\source\repos\ProjetVehiculesFichierTexte\ProjetVehiculesFichierTexte\obj\Debug\netcoreapp3.1\ProjetVehiculesFichierTexte.genruntimeconfig.cache
